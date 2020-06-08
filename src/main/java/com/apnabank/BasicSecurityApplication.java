@@ -8,6 +8,7 @@ public class BasicSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BasicSecurityApplication.class, args);
+		System.out.println("Jenkins test...");
 	}
 
 }
